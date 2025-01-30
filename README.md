@@ -1,8 +1,10 @@
-## Vanilla Dance Dance Revolution
+# Vanilla Dance Dance Revolution
 
 (Mini project)
 
-Using Raspberry Pi to recreate the famous Dance Dance Revolution using Tkinter GUI in hopes of providing a fun game for freshmores.
+Using Raspberry Pi to recreate the famous Dance Dance Revolution using Tkinter GUI in hopes of providing a fun and simple game.
+
+<img src="Demo.gif">
 
 ## Usage
 
