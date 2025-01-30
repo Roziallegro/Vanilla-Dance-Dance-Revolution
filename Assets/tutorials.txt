@@ -1,0 +1,5 @@
+1. Wait for the moving scroll downwards to the bottom of the screen.
+2. Once it touches the line found at the bottom of the screen,
+step on the coresponding arrows on the dance platform.
+3. The game ends upon missing the arrows for 3 times.
+4. Compete against your friends for highest score. Best of luck!
